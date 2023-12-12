@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey all, I'm Anna</h1>
 <h3 align="center">Full-Stack developer</h3>
 
-- 🔭 I’m currently working on **DropWorks project**
+- 🔭 I’m working on **DropWorks project**
 
 - 🌱 I’m currently leveraging **my knowledge in Ruby on Rails and JavaScript.**
 
