@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey all, I'm Anna</h1>
-<h3 align="center">Full-Stack developer from Ukraine</h3>
+<h3 align="center">Full-Stack developer</h3>
 
 - 🔭 I’m currently working on **DropWorks project**
 
